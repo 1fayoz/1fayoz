@@ -5,7 +5,7 @@
 
 ---
 <p align="center">
-  <img src="./assets/animation.svg" alt="Backend animation" width="720"/>
+  <img src="./animation.svg" alt="Backend animation" width="720"/>
 </p>
 
 ---
